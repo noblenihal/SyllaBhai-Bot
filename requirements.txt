@@ -1,0 +1,3 @@
+python-dotenv==0.15.0
+python-telegram-bot==13.1
+slate3k==0.5.3
