@@ -17,8 +17,10 @@ And there you go, deployed the fully functional bot that is not only helping me 
 Now I can start studying peacefully 😌
 
 Here are some screenshots 
-![WhatsApp Image 2021-04-10 at 2 47 54 AM (1)](https://user-images.githubusercontent.com/71334544/114241965-b5959780-99a7-11eb-9483-33a17f21846b.jpeg)![WhatsApp Image 2021-04-10 at 2 47 54 AM (2)](https://user-images.githubusercontent.com/71334544/114241977-ba5a4b80-99a7-11eb-92aa-fa88ff1b4d09.jpeg)
-![WhatsApp Image 2021-04-10 at 2 47 54 AM (3)](https://user-images.githubusercontent.com/71334544/114241983-bb8b7880-99a7-11eb-98e3-1b8239ffede6.jpeg)
+![WhatsApp Image 2021-04-10 at 2 47 54 AM (1)](https://user-images.githubusercontent.com/71334544/114242061-dcec6480-99a7-11eb-987c-563f902a34f4.jpeg)
+![WhatsApp Image 2021-04-10 at 2 47 54 AM (2)](https://user-images.githubusercontent.com/71334544/114242064-deb62800-99a7-11eb-86c0-ecea7ec79645.jpeg)
+![WhatsApp Image 2021-04-10 at 2 47 54 AM (3)](https://user-images.githubusercontent.com/71334544/114242066-e07feb80-99a7-11eb-8b9d-efecc4665179.jpeg)
+
 
 
 
